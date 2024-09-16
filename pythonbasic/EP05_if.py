@@ -5,3 +5,4 @@ if age >= 19:
 else:
     print("미성년자입니다")
 
+
